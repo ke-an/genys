@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "inlineSourceMap": true,
+        "outDir": "./JS",
+        "out": "JS/gallery.js",
+        "sourceMap": true,
+        "sourceRoot": "."
+    },
+    "files": [
+        "gallery.ts"
+    ]
+}
